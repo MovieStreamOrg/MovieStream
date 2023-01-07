@@ -1,0 +1,28 @@
+import QtQuick 2.15
+
+Item {
+    property string bars:"\uf0c9"
+    property string user:"\uf007"
+    property string users:"\uf0c0"
+    property string search:"\uf002"
+    property string gear:"\uf085"
+    property string ellipsis_v:"\uf142"
+    property string grid_h:"\e307"
+    property string video:"\uf03d"
+    property string screencast: "\ue23e"
+    property string cam_movie:"\uf8a9"
+    property string lock:"\uf023"
+    property string key:"\uf084"
+    property string arrow_left:"\uf177"
+    property string film: "\uf008"
+    property string rocket_launch :"\uf135"
+    property string filter:"\uf160"
+    property string tv:"\uf26c"
+    property string shape:"\uf61f"
+    property string bookmark:"\uf02e"
+    property string refresh : "\uf017"
+    property string collection:"\uf187"
+    property string update:"\uf0ed"
+    property string logout:"\uf2f5"
+    property string chevron_down:"\uf0d7"
+}

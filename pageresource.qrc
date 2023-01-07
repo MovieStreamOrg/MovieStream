@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/page">
+        <file>global/page/ContentListingPage.qml</file>
+        <file>global/page/ContentDiscover.qml</file>
+        <file>global/page/ContentCategoryPage.qml</file>
+    </qresource>
+    <qresource prefix="/component">
+        <file>global/views/VideoItem.qml</file>
+        <file>global/views/DefaultTemplate.qml</file>
+        <file>global/views/FontIcon.qml</file>
+        <file>global/views/BorderedTextView.qml</file>
+        <file>global/views/fontawesome/Icon.qml</file>
+        <file>global/views/VideoHorizontal.qml</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>assets/images/movieposter.jpg</file>
+        <file>assets/configs/app.config</file>
+    </qresource>
+</RCC>
